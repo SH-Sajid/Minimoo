@@ -1,2 +1,2 @@
 # Minimo
-This is a project of psd to html
+This project is about psd to html
